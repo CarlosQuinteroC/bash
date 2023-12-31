@@ -1,2 +1,2 @@
 # bash
-Coleccion de scripts Bash
+Colección de scripts Bash
