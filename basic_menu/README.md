@@ -1,3 +1,3 @@
 # bash
-Set basico de instrucciones para crear un meni basico usando bash.
+Set básico de instrucciones para crear un menú básico usando bash.
 
